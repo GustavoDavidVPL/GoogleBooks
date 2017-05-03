@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instruction"> Enter a Book name, or part of a book name, or just done text from a book to find the full book title and who wrote the book </string>
+    <string name="input_hint">Enter a bookTitle</string>
+    <string name="Button_text"> search Books</string>
+
+</resources>
